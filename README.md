@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Alexander 👋
+
+---
 
 ### :book: About Me
 - Junior Frontend developer
+
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -35,18 +39,11 @@
   </tr> <!--ряд с ячейками тела таблицы-->
 </table>
 
-
-
-
 ---
 
 ### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormpero&show_icons=true&theme=gotham)
 [![GitHub Streak](https://streak-stats.demolab.com?user=stormpero&theme=gotham)](https://git.io/streak-stats)
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormpero&show_icons=true&theme=gotham)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stormpero&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **stormpero/stormpero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
