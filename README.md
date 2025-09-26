@@ -1,61 +1,31 @@
 ### Hi there, I'm Alexander 👋
 
 ---
-
 ### :book: About Me
-- Junior Frontend developer
-
+- Frontend developer
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Skills :
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" height="36" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5" alt="HTML5" height="32" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS3" alt="CSS3" height="32" />
+</p>
 
-<table>
-  <tr>
-    <th>Default</th>
-    <th>Libraries</th>
-    <th>Design</th>
-  </tr> 
-  <tr>
-    <td>
-      <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      </div>
-    </td>
-    <td align="center">
-      <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
-      </div>
-    </td>
-    <td>
-      <div>
-        <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-</div>
-      </div>
-    </td>
-  </tr> <!--ряд с ячейками тела таблицы-->
-</table>
+<details>
+  <summary><b>🧰 Toolbox</b></summary>
+  <br />
+  React • TypeScript • JavaScript • HTML • CSS • Tailwind • shadcn/ui • MUI •
+  Redux Toolkit • RTK Query • Zustand • TanStack Query • React Router • React Hook Form •
+  Astro • NestJS • Express • Prisma • PostgreSQL • Docker • Git • ESLint • Prettier • VS Code
+</details>
 
----
-
-### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stormpero&show_icons=true&theme=gotham)
-[![GitHub Streak](https://streak-stats.demolab.com?user=stormpero&theme=gotham)](https://git.io/streak-stats)
-
-<!--
-**stormpero/stormpero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right">
+  <sub>✨</sub>
+</p>
